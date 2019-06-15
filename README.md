@@ -1,1 +1,1 @@
-# Resource Directory Private
+# Resource Directory
